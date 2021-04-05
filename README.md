@@ -1,2 +1,2 @@
 # algorithmic_trading
-this is a script that takes real time data and makes trading decisions
+script that takes real time data, makes trading decisions, and sends market order to the broker via its API
